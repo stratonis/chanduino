@@ -51,7 +51,7 @@ Premade themes are available in the `themes` folder and a theme generator is ava
 # Dependencies
 - [ArduinoJson 6.16.1](https://arduinojson.org/)
 - [TFT_eSPI 1.4.20](https://github.com/Bodmer/TFT_eSPI)
-- [TJpg_Decoder](https://github.com/Bodmer/TJpg_Decoder)
+- [TJpg_Decoder 0.0.2](https://github.com/Bodmer/TJpg_Decoder)
 - [Button2](https://github.com/LennartHennigs/Button2)
 
 You can flash this project with the Arudino IDE.
